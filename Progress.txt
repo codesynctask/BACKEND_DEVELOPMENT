@@ -1,0 +1,11 @@
+1. Why Node js?
+
+2. What is Node js?
+    - d/w package.json | package-lock.json
+
+3. Modules 
+    * ./package.json --> add "type"
+    - CommonJS (Default)
+    - ES Modules (Modern way)
+
+
